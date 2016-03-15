@@ -5,7 +5,6 @@
 	    'ngAnimate',
 	    'ui.router',
 	    'ngMaterial',
-
 	    'app.router',
 	    // 'app.services'
 		]);

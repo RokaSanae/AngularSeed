@@ -6,7 +6,7 @@
 	function MainController($http){
 		var vm = this;
 		vm.data = {
-			'a':'s'
+			'hi':'Hellow'
 		};
 	}
 })();
